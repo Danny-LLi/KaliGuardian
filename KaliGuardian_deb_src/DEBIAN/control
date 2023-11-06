@@ -1,0 +1,11 @@
+Package: kaliguardian
+Version: 1.0.0.0
+Architecture: all
+Maintainer: Danny-LLi
+Installed-Size: 64
+Depends: secure-delete, tor, i2p
+Recommends: gtkdialog, socat, gufw, proxychains, openvpn
+Suggests: vidalia
+Section: net
+Priority: optional
+Description: The scripts for achieving anonymity and discretion, originally designed for Parrot OS, have been adapted for compatibility with Kali Linux.
