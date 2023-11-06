@@ -88,6 +88,12 @@ This project is licensed under the GNU General Public License v3.0.
 - `i2pstart` Start I2P services.
 - `i2pstop` Stop I2P services.
 
+### Uninstallation
+
+To uninstall KaliGuardian from your Kali Linux system:
+   ```bash
+   apt-get purge kaliguardian
+   ```
 
 ### Pandora
 Pandora automatically overwrites the RAM when the system is shutting down. You can also run Pandora manually:
