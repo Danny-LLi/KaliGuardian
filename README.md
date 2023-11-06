@@ -34,7 +34,7 @@ To install KaliGuardian on your Kali Linux system, follow these steps:
 3. Compile the source code into a DEB package.
    ```bash
    dpkg-deb -b KaliGuardian_deb_src/ kaliguardian.deb 
-   ``` ||
+   ```
 
 4. Install.
    ```bash
