@@ -78,15 +78,15 @@ This project is licensed under the GNU General Public License v3.0.
 ### Usage
  kaliguardian {start|stop|restart|change|status}
 
-- `start`: Start system-wide anonymous tunneling under TOR proxy through iptables.
-- `stop`: Reset original iptables settings and return to clear navigation.
-- `restart`: Combines "stop" and "start" options.
-- `change`: Changes identity by restarting TOR.
-- `status`: Check if KaliGuardian is working properly.
+- `start` Start system-wide anonymous tunneling under TOR proxy through iptables.
+- `stop` Reset original iptables settings and return to clear navigation.
+- `restart` Combines "stop" and "start" options.
+- `change` Changes identity by restarting TOR.
+- `status` Check if KaliGuardian is working properly.
 
 **I2P Related Features**:
-- `i2pstart`: Start I2P services.
-- `i2pstop`: Stop I2P services.
+- `i2pstart` Start I2P services.
+- `i2pstop` Stop I2P services.
 
 
 ### Pandora
